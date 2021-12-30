@@ -65,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Multi_Authentication
+This is a multi authentication app done with Laravel breeze.
+In this app, there are two users, that is the buyer and the admin.
+It is structured in such a way that, the buyer has their login form and the admin has a different one.
+This is still work in progress. More will be added to this as time goes on.
